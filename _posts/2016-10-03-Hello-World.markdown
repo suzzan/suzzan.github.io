@@ -4,7 +4,7 @@ subtitle: "I'm learning ruby!"
 author: "Sujan Basu"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
-date:   2015-06-10 12:12:12
+date:    2016-10-04 12:12:12
 ---
 
 Coding Jump-start
