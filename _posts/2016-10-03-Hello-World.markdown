@@ -2,8 +2,8 @@
 title:  "Coding Jump-start!"
 subtitle: "I'm learning ruby!"
 author: "Sujan Basu"
-avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+avatar: "./suzpropric.jpg"
+image: "./vladstudio_tree_of_lights_gold_1280x800_signed.jpg"
 date:   2016-10-04 12:12:12
 ---
 
